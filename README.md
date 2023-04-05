@@ -48,10 +48,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Network — Sth about IP and Subnet Mask](https://medium.com/@steven841221/network-sth-about-ip-subnet-mask-default-gateway-9239ffde91bb)
-- [SSH系列 — 讓本地伺服器安全連線到遠端GIT伺服器吧!](https://medium.com/@steven841221/ssh系列-讓本地伺服器安全連線到遠端伺服器吧-bc8c710501b0)
-- [Node腳本系列 — 在package.json使用腳本執行bash腳本](https://medium.com/@steven841221/node腳本系列-在package-json使用腳本執行bash腳本-d320077179fa)
-- [Shaders 系列 — 使用shader畫一個圓吧](https://medium.com/@steven841221/shaders-系列-使用shader製作一個圓圈吧-755b4d61b09d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@steven841221)
