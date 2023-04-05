@@ -45,7 +45,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts of [@YONG-LIN-LIANG][github]
 
 <!-- BLOG-POST-LIST:START -->
 - [SSH系列 — 讓本地伺服器安全連線到遠端GIT伺服器吧!](https://medium.com/@steven841221/ssh%E7%B3%BB%E5%88%97-%E8%AE%93%E6%9C%AC%E5%9C%B0%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%AE%89%E5%85%A8%E9%80%A3%E7%B7%9A%E5%88%B0%E9%81%A0%E7%AB%AF%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%90%A7-bc8c710501b0?source=rss-7f67a1b5b851------2)
@@ -68,3 +68,4 @@
 [youtube]: https://www.youtube.com/channel/UC-todZ8Bzmb0yIzLJXHPgZQ
 [instagram]: https://instagram.com/ssnn8347028
 [linkedin]: https://www.linkedin.com/in/yong-lin-liang-9302b21a5/
+[github]: https://github.com/YONG-LIN-LIANG
