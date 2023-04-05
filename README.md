@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 Check out my latest post: [Network — Sth about IP and Subnet Mask](https://medium.com/@steven841221/network-sth-about-ip-subnet-mask-default-gateway-9239ffde91bb)!
+- 🔭 Check out my latest post: [Network — Sth about IP and Subnet Mask](https://medium.com/@steven841221/network-sth-about-ip-subnet-mask-default-gateway-9239ffde91bb)！
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about blockchain and get AWS Solution Architect Cert!!
@@ -48,9 +48,6 @@
 ### 📕 Latest Blog Posts of [@YONG-LIN-LIANG][github]
 
 <!-- MEDIUM:START -->
-- [SSH系列 — 讓本地伺服器安全連線到遠端GIT伺服器吧!](https://medium.com/@steven841221/ssh%E7%B3%BB%E5%88%97-%E8%AE%93%E6%9C%AC%E5%9C%B0%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%AE%89%E5%85%A8%E9%80%A3%E7%B7%9A%E5%88%B0%E9%81%A0%E7%AB%AF%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%90%A7-bc8c710501b0?source=rss-7f67a1b5b851------2)
-- [Node腳本系列 — 在package.json使用腳本執行bash腳本](https://medium.com/@steven841221/node%E8%85%B3%E6%9C%AC%E7%B3%BB%E5%88%97-%E5%9C%A8package-json%E4%BD%BF%E7%94%A8%E8%85%B3%E6%9C%AC%E5%9F%B7%E8%A1%8Cbash%E8%85%B3%E6%9C%AC-d320077179fa?source=rss-7f67a1b5b851------2)
-- [Shaders 系列 — 使用shader製作一個圓圈吧](https://medium.com/@steven841221/shaders-%E7%B3%BB%E5%88%97-%E4%BD%BF%E7%94%A8shader%E8%A3%BD%E4%BD%9C%E4%B8%80%E5%80%8B%E5%9C%93%E5%9C%88%E5%90%A7-755b4d61b09d?source=rss-7f67a1b5b851------2)
 <!-- MEDIUM:END -->
 
 
@@ -62,7 +59,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Steven's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="Steven's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=YONG-LIN-LIANG&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
 
