@@ -45,7 +45,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts of [@YONG-LIN-LIANG][github]
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -65,3 +65,4 @@
 [youtube]: https://www.youtube.com/channel/UC-todZ8Bzmb0yIzLJXHPgZQ
 [instagram]: https://instagram.com/ssnn8347028
 [linkedin]: https://www.linkedin.com/in/yong-lin-liang-9302b21a5/
+[github]: https://github.com/YONG-LIN-LIANG
