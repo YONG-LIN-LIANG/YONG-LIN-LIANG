@@ -47,12 +47,11 @@
 
 ### 📕 Latest Blog Posts of [@YONG-LIN-LIANG][github]
 
-<table>
-  <tr><th>Title</th><th>Link</th></tr>
-  <!-- MEDIUM:START --><!-- MEDIUM:END -->
-</table>
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
-➡️ [more blog posts...](https://medium.com/@steven841221)
+
+➡️ [more blog posts...][medium]
 
 ---
 
@@ -68,3 +67,4 @@
 [instagram]: https://instagram.com/ssnn8347028
 [linkedin]: https://www.linkedin.com/in/yong-lin-liang-9302b21a5/
 [github]: https://github.com/YONG-LIN-LIANG
+[medium]: https://medium.com/@steven841221
