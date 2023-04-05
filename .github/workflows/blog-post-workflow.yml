@@ -20,4 +20,3 @@ jobs:
           comment_tag_name: "MEDIUM"
           feed_list: https://medium.com/feed/@steven841221
           max_post_count: 5
-          template: "<tr><td>$title</td><td>$url</td></tr>"
