@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
+- 🔭 Check out my latest post: [Network — Sth about IP and Subnet Mask][https://medium.com/@steven841221/network-sth-about-ip-subnet-mask-default-gateway-9239ffde91bb]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Learn more about blockchain and get AWS Solution Architect Cert!!
