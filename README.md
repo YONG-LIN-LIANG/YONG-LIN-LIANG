@@ -5,7 +5,7 @@
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about blockchain
+- 🥅 2023 Goals: Learn more about blockchain and get AWS Solution Architect Cert!!
 - ⚡ Fun fact: I love to cook and psychology
 
 ### Connect with me:
