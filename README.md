@@ -19,8 +19,6 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/yong-lin-liang-9302b21a5/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/yong-lin-liang-9302b21a5/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ssnn8347028#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ssnn8347028#gh-dark-mode-only)
 
 ### Languages and Tools:
 
