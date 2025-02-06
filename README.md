@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts of [@YONG-LIN-LIANG][github]
 
 <!-- MEDIUM:START -->
+- [Design Bucket directory structure](https://medium.com/@steven841221/design-bucket-directory-structure-c66b7bc3f3a4?source=rss-7f67a1b5b851------2)
 - [Data Modeling — Star Schema](https://medium.com/@steven841221/data-modeling-star-schema-76334e83ffcb?source=rss-7f67a1b5b851------2)
 - [Network — Design sub-networking with variable size requirement](https://medium.com/@steven841221/network-design-sub-networking-with-variable-size-requirement-fd9c8517bf9c?source=rss-7f67a1b5b851------2)
 - [AWS — What is VPC](https://medium.com/@steven841221/aws-what-is-vpc-a9871185ccb8?source=rss-7f67a1b5b851------2)
 - [Network — Sth about IP, Subnet Mask, Default Gateway](https://medium.com/@steven841221/network-sth-about-ip-subnet-mask-default-gateway-9239ffde91bb?source=rss-7f67a1b5b851------2)
-- [SSH系列 — 讓本地伺服器安全連線到遠端GIT伺服器吧!](https://medium.com/@steven841221/ssh%E7%B3%BB%E5%88%97-%E8%AE%93%E6%9C%AC%E5%9C%B0%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%AE%89%E5%85%A8%E9%80%A3%E7%B7%9A%E5%88%B0%E9%81%A0%E7%AB%AF%E4%BC%BA%E6%9C%8D%E5%99%A8%E5%90%A7-bc8c710501b0?source=rss-7f67a1b5b851------2)
 <!-- MEDIUM:END -->
 
 
